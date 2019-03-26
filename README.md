@@ -39,6 +39,7 @@ export LIBRARY_PATH=$LIBRARY_PATH:/your/cuda/lib64/  (optional)
 
 ``` shell
 python setup.py install
+python setup_batch_svd.py develop
 ```
 
 ### 1.3 Run `test.py`
